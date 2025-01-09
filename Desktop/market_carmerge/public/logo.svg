@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Car body -->
+  <path d="M8 22L12 14H28L32 22M8 22V26H32V22M8 22H32" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Wheels -->
+  <circle cx="14" cy="26" r="3" fill="#60A5FA"/>
+  <circle cx="26" cy="26" r="3" fill="#60A5FA"/>
+  
+  <!-- Merge arrows -->
+  <path d="M16 8L20 4L24 8M20 4V14" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
